@@ -1,0 +1,3 @@
+"F:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\9_19test.dir/objects.a
+F:\PROGRA~1\mingw\mingw64\bin\ar.exe qc CMakeFiles\9_19test.dir/objects.a @CMakeFiles\9_19test.dir\objects1.rsp
+F:\PROGRA~1\mingw\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\9_19test.dir/objects.a -Wl,--no-whole-archive -o 9_19test.exe -Wl,--out-implib,lib9_19test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\9_19test.dir\linklibs.rsp
